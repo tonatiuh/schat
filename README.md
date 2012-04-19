@@ -1,0 +1,4 @@
+schat
+=====
+
+A chat client
